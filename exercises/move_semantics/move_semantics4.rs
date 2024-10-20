@@ -8,8 +8,8 @@
 // for a hint.
 
 
+
 fn main() {
-    //let vec0 = Vec::new();
 
     let mut vec1 = fill_vec();
 
